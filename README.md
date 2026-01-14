@@ -4,7 +4,7 @@
 
 Senior technical support professional with over 12 years of experience in Internet Service Providers (ISPs) and telecom environments, currently transitioning into software development.
 I have a strong background in Level 3 technical support (L3), complex troubleshooting, network stability, and incident management. Throughout my career, I have worked closely with infrastructure, systems, and automation concepts, which naturally led me to pursue programming as the next step in my professional growth.
-I am currently based in Brazil and actively seeking international opportunities, especially in Ireland, in telecom, ISP, and technology-driven environments.
+I am currently based in Brazil and actively seeking international opportunities, in telecom, ISP, and technology-driven environments.
 
 
 🎯 Career Objective
