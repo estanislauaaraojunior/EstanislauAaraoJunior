@@ -12,11 +12,17 @@ Migrar para a área de desenvolvimento de software, aplicando minha ampla experi
 
 🧠 Base Técnica
 📡 Telecomunicações & Redes
+
 Provedores de Internet (ISP)
+
 Suporte Técnico Nível 3 (L3)
+
 Troubleshooting avançado de redes
+
 Gerenciamento de incidentes e escalonamentos
+
 Monitoramento de SLAs
+
 Ambientes B2C e B2B
 
 🔌 Tecnologias & Protocolos
