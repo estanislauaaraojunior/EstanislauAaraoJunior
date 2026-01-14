@@ -2,56 +2,56 @@
 
 Sobre mim
 
-    Profissional sênior de suporte técnico com mais de 12 anos de experiência em Provedores de Serviços de Internet (ISPs) e ambientes de telecomunicações, atualmente em transição para a área de desenvolvimento de software.
+Profissional sênior de suporte técnico com mais de 12 anos de experiência em Provedores de Serviços de Internet (ISPs) e ambientes de telecomunicações, atualmente em transição para a área de desenvolvimento de software.
 Possuo sólida atuação em Suporte Técnico Nível 3 (L3), resolução de problemas complexos de rede, estabilidade de serviços e gerenciamento de incidentes. Ao longo da minha trajetória, trabalhei diretamente com infraestrutura, sistemas e conceitos de automação, o que naturalmente me levou a aprofundar meus estudos em programação como próximo passo profissional.
-    Atualmente estou baseado no Brasil e busco oportunidades internacionais, em ambientes de telecomunicações, ISPs e tecnologia.
+Atualmente estou baseado no Brasil e busco oportunidades internacionais, em ambientes de telecomunicações, ISPs e tecnologia.
     
 
 🎯 Objetivo de Carreira
 
-    Migrar para a área de desenvolvimento de software, aplicando minha ampla experiência em telecomunicações, redes e resolução de problemas para criar soluções de automação, sistemas backend e integrações que conectem infraestrutura e código.
+Migrar para a área de desenvolvimento de software, aplicando minha ampla experiência em telecomunicações, redes e resolução de problemas para criar soluções de automação, sistemas backend e integrações que conectem infraestrutura e código.
     
 
 🧠 Base Técnica
 
 📡 Telecomunicações & Redes
 
-Provedores de Internet (ISP)
+🔹 Provedores de Internet (ISP)
 
-Suporte Técnico Nível 3 (L3)
+🔹 Suporte Técnico Nível 3 (L3)
 
-Troubleshooting avançado de redes
+🔹 Troubleshooting avançado de redes
 
-Gerenciamento de incidentes e escalonamentos
+🔹 Gerenciamento de incidentes e escalonamentos
 
-Monitoramento de SLAs
+🔹 Monitoramento de SLAs
 
-Ambientes B2C e B2B
+🔹 Ambientes B2C e B2B
 
 🔌 Tecnologias & Protocolos
 
-MikroTik (RouterOS)
+🔹 MikroTik (RouterOS)
 
-Autenticação PPPoE
+🔹 Autenticação PPPoE
 
-VLANs
+🔹 VLANs
 
-Configuração de ONU / ONT
+🔹 Configuração de ONU / ONT
 
-Monitoramento e diagnóstico de rede
+🔹 Monitoramento e diagnóstico de rede
 
 
 💻 Programação & Desenvolvimento (Em evolução)
 
-Fundamentos de programação e lógica
+🔹 Fundamentos de programação e lógica
 
-Conceitos de automação
+🔹 Conceitos de automação
 
-Resolução de problemas com scripts
+🔹 Resolução de problemas com scripts
 
-Controle de versão com Git e GitHub
+🔹 Controle de versão com Git e GitHub
 
-Aprendizado contínuo com projetos práticos
+🔹 Aprendizado contínuo com projetos práticos
 
 📌 Este perfil no GitHub representa minha jornada de aprendizado e transição de carreira para desenvolvimento de software.
 
@@ -75,15 +75,15 @@ Aprendizado contínuo com projetos práticos
 
 📈 Competências Profissionais
 
-Forte capacidade analítica e de troubleshooting
+🔹 Forte capacidade analítica e de troubleshooting
 
-Experiência com incidentes críticos e escalonamentos
+🔹 Experiência com incidentes críticos e escalonamentos
 
-Capacidade de unir operações técnicas e soluções em software
+🔹 Capacidade de unir operações técnicas e soluções em software
 
-Liderança técnica e apoio a equipes
+🔹 Liderança técnica e apoio a equipes
 
-Perfil autodidata e orientado a crescimento
+🔹 Perfil autodidata e orientado a crescimento
 
 
 📬 Contato & Links:
